@@ -1,6 +1,6 @@
 # Kholles
 Exercices de khôlles de physique avec correction principalement pour des prépas PCSI et PC, mais qui peuvent s'adresser à d'autres filières ou aux étudiants de L1/L2
-Vous pouvez accéder au PDF via []()
+Vous pouvez accéder au PDF via [https://thibaultbourgeois.github.io/Kholles/Kh%C3%B4lles.pdf](https://thibaultbourgeois.github.io/Kholles/Kh%C3%B4lles.pdf)
 
 Ce document recense l'ensemble des exercices que j'ai donné en khôlle aux classes de PCSI1 et PC du lycée Stanislas entre 2022 et 2025. Certains exercices sont plutôt difficiles et sont pensés pour engager une discution avec le khôlleur pour guider la réflexion mais rien n'empêche un (très) bon élève de les faire seul. Enfin, pour les exercices de deuxième année utilisant de l'analyse vectorielle, n'hésitez pas à utiliser un formulaire (comme par exemple celui de la page wikipedia Vector calculus identities) car certaines formules peuvent être nécessaires à la résolution.
 
